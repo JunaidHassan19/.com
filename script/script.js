@@ -162,7 +162,7 @@ window.ityped.init(document.querySelector(".ityped"), {
     "BCA Aspirant!",
     "Self-Taught Web Developer",
     "JavaScript!",
-    "exploring technologies",
+    "Exploring Technologies",
     "AI!",
   ],
   loop: true,
